@@ -39,4 +39,4 @@ py manage.py runserver
 Before deployment just change the following things:
 1.In API go to views.py and in last line replace 127.0.0.1:8000 with your custom domain.
 
-2.Edit about Us and API Documents Page According to your need.
+2.Edit About Us and API Documents Page According to your need.
