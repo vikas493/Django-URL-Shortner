@@ -31,3 +31,12 @@ Now Simply Start Server
 ```shell
 py manage.py runserver
 ```
+
+## Notes:
+#### This Application has API support also.You can navigate API folder under testapp.For API only POST method implemented so you can send POST request and in response you'll your shorten url.
+
+## Production:
+Before deployment just change the following things:
+1.In API go to views.py and in last line replace 127.0.0.1:8000 with your custom domain.
+
+2.Edit about Us and API Documents Page According to your need.
