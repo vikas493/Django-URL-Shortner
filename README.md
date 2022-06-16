@@ -33,7 +33,7 @@ py manage.py runserver
 ```
 
 ## Notes:
-#### This Application has API support also.You can navigate API folder under testapp.For API only POST method implemented so you can send POST request and in response you'll your shorten url.
+#### This Application has API support also.You can navigate API folder under testapp.For API only POST method implemented so you can send POST request and in response you'll get your shorten url.
 
 ## Production:
 Before deployment just change the following things:
