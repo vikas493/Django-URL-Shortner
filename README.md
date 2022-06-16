@@ -7,7 +7,7 @@
 ```shell
 pip install python==3.9.10
 pip install Django==4.0.3
-djangorestframework==3.13.1
+pip install djangorestframework==3.13.1
 ```
 ## Now go to command line and hit following commands
 
